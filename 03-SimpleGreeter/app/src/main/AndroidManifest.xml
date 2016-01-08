@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.scu.jsun2.simplegreeter">
+    package="net.junsun.simplegreeter">
 
     <application
         android:allowBackup="true"

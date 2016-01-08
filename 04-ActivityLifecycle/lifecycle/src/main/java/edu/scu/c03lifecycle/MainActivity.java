@@ -43,6 +43,12 @@ public class MainActivity extends ActionBarActivity {
     }
 
     @Override
+    protected void onRestart() {
+        super.onRestart();
+        Toast.makeText(this, "in onRestart", Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
     protected void onResume() {
         super.onResume();
         Toast.makeText(this, "in onResume", Toast.LENGTH_SHORT).show();
