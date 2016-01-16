@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="CustomText">
+        <item name="android:textSize">70sp</item>
+        <item name="android:textColor">#ff0000</item>
+    </style>
+
+</resources>
