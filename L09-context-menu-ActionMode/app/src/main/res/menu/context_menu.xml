@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_change_color"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Change Color"/>
+
+    <item
+        android:id="@+id/action_increase"
+        android:orderInCategory="120"
+        android:icon="@drawable/ic_action_increase"
+        android:showAsAction="always"
+        android:title="Increase"/>
+
+    <item
+        android:id="@+id/action_decrease"
+        android:orderInCategory="160"
+        android:icon="@drawable/ic_action_decrease"
+        android:showAsAction="always"
+        android:title="Decrease"/>
+
+</menu>

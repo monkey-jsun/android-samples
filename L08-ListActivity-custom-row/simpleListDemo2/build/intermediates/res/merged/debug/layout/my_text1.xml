@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="2dp"
   	android:paddingTop="5dp"
-    android:paddingLeft="50dp"
+    android:paddingLeft="5dp"
     android:textColor="#ffff0000"
     android:background="#22ff0000"
     android:drawableLeft="@mipmap/ic_face"

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:padding="3dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtSoloMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#FFFFFFFF"
+        android:padding="3dp"
+        android:background="#ff0000ff" />
+
+    <ImageView
+        android:id="@+id/imgSoloPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_gravity="center|fill"
+        android:layout_weight="2" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Back" />
+</LinearLayout>

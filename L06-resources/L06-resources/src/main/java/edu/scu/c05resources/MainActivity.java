@@ -21,7 +21,6 @@ public class MainActivity extends Activity {
         ImageView imageView = (ImageView) findViewById(R.id.imageView);
         imageView.setImageResource(R.drawable.obama2);
 
-        /*
         ImageView iv= new ImageView(this);
         iv.setImageResource(R.drawable.dog);
 
@@ -32,6 +31,5 @@ public class MainActivity extends Activity {
 
         RelativeLayout rl = (RelativeLayout)findViewById(R.id.relativeLayout);
         rl.addView(iv);
-        */
     }
 }

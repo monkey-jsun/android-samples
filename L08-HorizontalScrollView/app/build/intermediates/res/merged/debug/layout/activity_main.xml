@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff"
+    android:orientation="vertical"
+    android:padding="9dp" >
+
+    <TextView
+        android:id="@+id/txtMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff00ff00"
+        android:text="scroll and click to select ..."
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#44aaaaaa" >
+
+        <LinearLayout
+            android:id="@+id/viewgroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dip" >
+        </LinearLayout>
+    </HorizontalScrollView>
+
+     <ImageView
+        android:id="@+id/imageSelected"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2" />
+
+</LinearLayout>

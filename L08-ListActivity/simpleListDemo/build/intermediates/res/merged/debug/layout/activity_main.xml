@@ -5,19 +5,17 @@
     android:padding="3dp" 
     android:orientation="vertical">
 
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@android:id/list">
+    </ListView>
+
     <TextView
-        android:id="@+id/txtMsg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#ffffff00"
-        android:text="Using ListViews..."
-        android:textSize="16sp" />
-
-    <ListView
-        android:id="@android:id/list"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"  >
-    </ListView>
-    
+        android:id="@android:id/empty"
+        android:text="Sorry! The list is empty!"
+        android:background="#ffff0000" />
 </LinearLayout>
 

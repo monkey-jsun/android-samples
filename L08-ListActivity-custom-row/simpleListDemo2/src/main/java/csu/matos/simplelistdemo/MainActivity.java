@@ -8,20 +8,15 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
-
-	TextView txtMsg;
 
 	String[] items = { "Data-0", "Data-1", "Data-2", "Data-3", "Data-4",
 			"Data-5", "Data-6", "Data-7" };
 
-	// next time try an empty list such as:
-	// String[] items = {};
+	ListView myListView;
 
-	ListView myListView;    
-   
-   
    	@Override
    	public void onCreate(Bundle savedInstanceState) {
        super.onCreate(savedInstanceState);
@@ -31,20 +26,15 @@ public class MainActivity extends Activity {
 
        ArrayAdapter<String> aa = new ArrayAdapter<String>(this,
     		   					R.layout.my_text1,
-                                //android.R.layout.simple_list_item_1,
-                                //android.R.id.text1,
                                 items);
        myListView.setAdapter(aa);
-       
-       txtMsg = (TextView) findViewById(R.id.txtMsg);
-       
+
        myListView.setOnItemClickListener(new OnItemClickListener() {
 
 		@Override
-		public void onItemClick(AdapterView<?> arg0, View arg1, int position,
-				long id) {
-			String text = " Position: " + position + "   " + items[position];
-			txtMsg.setText(text);
+		public void onItemClick(AdapterView<?> parent, View rowView, int position, long id) {
+			String text = " Position: " + position + ", id: " + id + ", data: " + items[position];
+			Toast.makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
 			
 		}
 	});

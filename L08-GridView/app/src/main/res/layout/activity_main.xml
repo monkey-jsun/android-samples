@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff0000ff"
+        android:padding="3dp"
+        android:text="Scrool screen, tap to choose"
+        android:textColor="#ffffffff"
+        android:textSize="20sp" />
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="1dp"
+        android:gravity="center_horizontal"
+        android:horizontalSpacing="0dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="0dp"
+        android:columnWidth="100dp"
+        android:stretchMode="columnWidth" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L08-HorizontalScrollView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidProjects\\android-course\\L08-HorizontalScrollView\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\victor-matos\\05-05-ScrollViewDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidProjects\\victor-matos\\05-05-ScrollViewDemo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

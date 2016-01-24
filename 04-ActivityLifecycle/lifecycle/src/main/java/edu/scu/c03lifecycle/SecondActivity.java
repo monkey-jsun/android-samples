@@ -9,5 +9,7 @@ public class SecondActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
+
+        int i = Integer.parseInt("abc");
     }
 }

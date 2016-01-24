@@ -8,26 +8,30 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="edu.scu.jsun2.verticallinearlayout.VerticalLinearLayout"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:weightSum="7">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button 1"
         android:id="@+id/button"
-        android:layout_weight="0" />
+        android:layout_weight="1" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button 2"
         android:id="@+id/button2"
-        android:layout_weight="0" />
+        android:layout_weight="1"
+        android:layout_margin="20dp"
+        android:padding="40dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button 3"
         android:id="@+id/button3"
-        android:layout_weight="0" />
+        android:layout_weight="1"
+        android:layout_margin="0dp" />
 </LinearLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">L08-custom-list</string>
+    <string name="spinner_prompt">Select your favorite</string>
+</resources>
