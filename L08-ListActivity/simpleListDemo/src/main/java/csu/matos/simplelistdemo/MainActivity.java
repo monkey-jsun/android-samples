@@ -14,7 +14,7 @@ public class MainActivity extends ListActivity {
 
 	TextView txtMsg;
 
-	String[] items = { "Data-0", "Data-1", "Data-2", "Data-3", "Data-4", "Data-5", "Data-6", "Data-7" };
+	String[] items = { "Data-0", "Data-1", "Data-2", "Data-3", "Data-4", "Data-5", "Data-6", "Data-7", "Data-8", "Data-9", "Data-10", "Data-11" };
 	// String[] items = {};
 	// Integer[] items = {123, 345,678};
 

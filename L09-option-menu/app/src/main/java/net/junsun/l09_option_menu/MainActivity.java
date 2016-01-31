@@ -1,5 +1,6 @@
 package net.junsun.l09_option_menu;
 
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -19,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle("ActionBar demo");
         actionBar.setSubtitle("this is a demo");
-        actionBar.setBackgroundDrawable(getResources().getDrawable(R.drawable.action_bar_background));
+        actionBar.setBackgroundDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.action_bar_background));
         actionBar.setIcon(R.mipmap.ic_fish);
         actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setDisplayShowHomeEnabled(true);

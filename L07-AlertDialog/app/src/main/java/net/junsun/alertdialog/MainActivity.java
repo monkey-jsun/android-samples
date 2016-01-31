@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Float f = Float.parseFloat("abc");
 
         Button button=(Button)findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
@@ -28,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                         .setPositiveButton("Yes, I do!", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
-                                Toast.makeText(getApplicationContext(), "Postive button clicked!", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(getApplicationContext(), "Positive button clicked!", Toast.LENGTH_SHORT).show();
                             }
                         })
                         .setNeutralButton("So-so", new DialogInterface.OnClickListener() {
@@ -43,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                                 Toast.makeText(getApplicationContext(), "Negative button clicked!", Toast.LENGTH_SHORT).show();
                             }
                         })
-                        .setCancelable(true)
+                        .setCancelable(false)
                         ;
                 builder.create().show();
             }

@@ -15,7 +15,7 @@ public class SecondActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
 
-        // Toast.makeText(getApplicationContext(), "SecondActivity onCreate()" + getIntent().getExtras().get("data"), Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "SecondActivity onCreate()" + getIntent().getExtras().get("password"), Toast.LENGTH_SHORT).show();
 
         Button button = (Button) findViewById(R.id.button2);
         button.setOnClickListener(new View.OnClickListener() {

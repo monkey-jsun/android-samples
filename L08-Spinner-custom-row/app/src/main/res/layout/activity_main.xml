@@ -17,6 +17,6 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:focusable="false"
-        android:spinnerMode="dropdown"
+        android:spinnerMode="dialog"
         android:prompt="@string/spinner_prompt" />
 </RelativeLayout>
