@@ -92,6 +92,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void deleteMyFile() {
+        deleteFile(myFile);
+
+        /*
         File dir = getFilesDir();
         File file = new File(dir, myFile);
         boolean deleted = file.delete();
@@ -100,5 +103,6 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "File is deleted!", Toast.LENGTH_SHORT).show();
         else
             Toast.makeText(getApplicationContext(), "Failed to delete the file", Toast.LENGTH_SHORT).show();
+            */
     }
 }

@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        /*
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle("ActionBar demo");
         actionBar.setSubtitle("this is a demo");
@@ -25,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setDisplayShowHomeEnabled(true);
         actionBar.setHomeButtonEnabled(true);
-        */
     }
 
     @Override
@@ -52,6 +50,9 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.action_about:
                 toast("About action ...");
+                break;
+            case android.R.id.home:
+                toast("Home button ...");
                 break;
             default:
                 toast("unknown action ...");

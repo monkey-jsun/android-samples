@@ -22,7 +22,7 @@ import java.util.Date;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    final String albumName = "Zoo";
+    final String albumName = "L11-camera-external-file";
     File imageFile;
 
     @Override

@@ -41,13 +41,13 @@ public class MainActivity extends AppCompatActivity {
             useUpdateMethod(); //use update method
             useDeleteMethod(); //use delete method
 
-            db.close(); // make sure to release the DB
-            txtMsg.append("\nAll Done!");
-        } catch (Exception e) {
-            txtMsg.append("\nError onCreate: " + e.getMessage());
-            finish();
-        }
+            db.close(); // mak                e sure to release the DB
+        txtMsg.append("\nAll Done!");
+    } catch (Exception e) {
+        txtMsg.append("\nError onCreate: " + e.getMessage());
+        finish();
     }
+}
 
     // /////////////////////////////////////////////////////////////////
     private void openDatabase() {
