@@ -3,6 +3,7 @@ package net.junsun.l15_contact_content_provider;
 import android.app.ListActivity;
 import android.content.ContentResolver;
 import android.database.Cursor;
+import android.net.Uri;
 import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -23,7 +24,7 @@ public class MainActivity extends ListActivity {
         setContentView(R.layout.activity_main);
 
         Cursor cursor = getContentResolver().query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, null, null, null, null);
-        startManagingCursor(cursor);
+        // startManagingCursor(cursor);
 
         String from[] = {
                 ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME,
@@ -47,22 +48,36 @@ public class MainActivity extends ListActivity {
             }
         });
 
-        // Just to show how cursor works in Log
-        listContacts();
+        // Just to show another way to work with cursor
+        ListSelectedContacts();
     }
 
-    private void listContacts() {
+    private void ListSelectedContacts() {
+        // list all phone numbers not in US or Canada
+        Uri uri = ContactsContract.CommonDataKinds.Phone.CONTENT_URI;  // content://com.android.contacts/data/phones
+        String projection[] = {
+                ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME,
+                ContactsContract.CommonDataKinds.Phone.NUMBER
+        };
+        String selection = ContactsContract.CommonDataKinds.Phone.NORMALIZED_NUMBER + " NOT LIKE ? ";
+        String argument[] = {"+1%"};
+        String sortOrder = ContactsContract.Contacts.DISPLAY_NAME + " ASC";
+
         ContentResolver cr = getContentResolver();
-        Cursor cursor = cr.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI,
-                null, null, null, null);
-        int displayNameColumn = cursor.getColumnIndex(
-                ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME);
-        int phoneNumberColumn = cursor.getColumnIndex(
-                ContactsContract.CommonDataKinds.Phone.NUMBER);
+        Cursor cursor = cr.query(
+                uri,
+                projection,
+                selection,
+                argument,
+                sortOrder);
+
+        // display
         while (cursor.moveToNext()) {
-            Log.d("jsun", cursor.getString(displayNameColumn) + ": " +
-                    cursor.getString(phoneNumberColumn));
+            Log.d("jsun", cursor.getString(0) + " : " + cursor.getString(1));
         }
         cursor.close();
+
+        // display URI
+        Log.i("jsun", "URI is " + uri.toString());
     }
 }

@@ -9,17 +9,30 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="net.junsun.l15_update_calllog.MainActivity">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Call Log"
+        android:id="@+id/button"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        android:src="@android:drawable/ic_dialog_email" />
+        android:text="Show last outgoing call"
+        android:id="@+id/button2"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

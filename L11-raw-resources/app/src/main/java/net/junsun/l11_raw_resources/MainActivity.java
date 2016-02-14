@@ -31,9 +31,9 @@ public class MainActivity extends AppCompatActivity {
         String str="";
         StringBuffer buf = new StringBuffer();
 
-        int fileResourceId = R.raw.my_text_file;
-        // InputStream is = this.getResources().openRawResource(fileResourceId);
-        InputStream is = this.getAssets().open("my_text_file");
+        int fileResourceId = R.raw.my_raw_text_file;
+        InputStream is = this.getResources().openRawResource(fileResourceId);
+        // InputStream is = this.getAssets().open("my_assets_text_file");
         BufferedReader reader = new BufferedReader(
                 new InputStreamReader(is));
         if (is!=null) {

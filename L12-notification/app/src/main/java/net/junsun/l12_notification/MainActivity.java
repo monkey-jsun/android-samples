@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // set callback for create notifcation button
         ((Button) findViewById(R.id.button)).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -37,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                                 .setAutoCancel(true);
                                 // .addAction(R.drawable.ic_fish, "Fish", resultPendingIntent);
 
-                //mBuilder.setStyle(createBigContent());
+                mBuilder.setStyle(createBigContent());
 
                 NotificationManager mNotificationManager =
                         (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
