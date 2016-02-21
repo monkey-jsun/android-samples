@@ -29,7 +29,7 @@ public class MyService extends Service {
     public int onStartCommand(Intent intent, int flags, int startId) {
         Log.i("jsun", "onStartCommand() is called: flags=" + flags + ", startId=" + startId);
 
-        long_running();
+        // long_running();
 
         return START_STICKY;
     }

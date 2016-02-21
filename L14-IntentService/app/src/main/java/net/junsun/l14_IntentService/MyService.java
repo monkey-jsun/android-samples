@@ -16,11 +16,6 @@ public class MyService extends IntentService {
     }
 
     @Override
-    public IBinder onBind(Intent intent) {
-        throw new UnsupportedOperationException("Not yet implemented");
-    }
-
-    @Override
     public void onCreate() {
         Log.i("jsun", "onCreate() is called");
         super.onCreate();
