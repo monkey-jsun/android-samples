@@ -1,0 +1,26 @@
+<html>
+<body>
+<h1>First page (in assets/)</h1>
+
+<a href="second-page.html">
+<button> Click here to go to second page in assets/ directory</button>
+</a>
+
+<a href="http://dailyjokes.co">
+    <button>Click here to go external site in webview </button>
+</a>
+
+<a href="http://junsun.net/local/android-webview-test.html">
+    <button>Click here to go external site in browser </button>
+</a>
+
+<hr>
+
+<button onclick="showToast()">Click here to toast a message</button>
+
+<script type="text/javascript">
+    function showToast() {AndroidInterface.toast("toasting from a webview page"); }
+</script>
+
+</body>
+</html>

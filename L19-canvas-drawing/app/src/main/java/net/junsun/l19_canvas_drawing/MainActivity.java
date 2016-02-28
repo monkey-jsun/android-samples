@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void drawSomething() {
+        paint.setStyle(Paint.Style.FILL);
         canvas.drawRect(400, 500, 600, 600, paint);
 
         paint.setStyle(Paint.Style.STROKE);

@@ -14,14 +14,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         VideoView myVideo = (VideoView) findViewById(R.id.videoView);
-        Uri videoUri = Uri.parse("android.resource://"
-                + getPackageName() + "/" + R.raw.video);
-        myVideo.setVideoURI(videoUri);
+        Uri videoUri = Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.video);
+        // myVideo.setVideoURI(videoUri);
+        myVideo.setVideoPath("http://www.ebookfrenzy.com/android_book/movie.mp4");
+        myVideo.start();
 
         MediaController mc = new MediaController(this);
-        mc.setMediaPlayer(myVideo);
         myVideo.setMediaController(mc);
-        myVideo.requestFocus();
-        mc.show();
     }
 }

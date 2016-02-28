@@ -11,49 +11,59 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.Toast;
 
 import java.io.IOException;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements MediaPlayer.OnCompletionListener {
     private static final String LOG_TAG = "AudioRecordTest";
     private static String mFileName = null;
 
-    private RecordButton mRecordButton = null;
     private MediaRecorder mRecorder = null;
-
-    private PlayButton   mPlayButton = null;
     private MediaPlayer mPlayer = null;
 
-    private void onRecord(boolean start) {
-        if (start) {
-            startRecording();
-        } else {
-            stopRecording();
-        }
-    }
+    @Override
+    public void onCreate(Bundle icicle) {
+        super.onCreate(icicle);
+        setContentView(R.layout.activity_main);
 
-    private void onPlay(boolean start) {
-        if (start) {
-            startPlaying();
-        } else {
-            stopPlaying();
-        }
-    }
+        mFileName = Environment.getExternalStorageDirectory().getAbsolutePath();
+        mFileName += "/audiorecordtest.3gp";
 
-    private void startPlaying() {
-        mPlayer = new MediaPlayer();
-        try {
-            mPlayer.setDataSource(mFileName);
-            mPlayer.prepare();
-            mPlayer.start();
-        } catch (IOException e) {
-            Log.e(LOG_TAG, "prepare() failed");
-        }
-    }
+        final Button recordButton = (Button)findViewById(R.id.button);
+        recordButton.setText("Start recording");
+        recordButton.setOnClickListener(new View.OnClickListener() {
+            boolean mStartRecording = true;
 
-    private void stopPlaying() {
-        mPlayer.release();
-        mPlayer = null;
+            @Override
+            public void onClick(View v) {
+                if (mStartRecording) {
+                    recordButton.setText("Stop recording");
+                    startRecording();
+                } else {
+                    recordButton.setText("Start recording");
+                    stopRecording();
+                }
+                mStartRecording = !mStartRecording;
+
+            }
+        });
+
+        final Button playButton = (Button)findViewById(R.id.button2);
+        playButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mPlayer = new MediaPlayer();
+                mPlayer.setOnCompletionListener(MainActivity.this);
+                try {
+                    mPlayer.setDataSource(mFileName);
+                    mPlayer.prepare();
+                    mPlayer.start();
+                } catch (IOException e) {
+                    Log.e(LOG_TAG, "prepare() failed");
+                }
+            }
+        });
     }
 
     private void startRecording() {
@@ -78,86 +88,8 @@ public class MainActivity extends AppCompatActivity {
         mRecorder = null;
     }
 
-    class RecordButton extends Button {
-        boolean mStartRecording = true;
-
-        OnClickListener clicker = new OnClickListener() {
-            public void onClick(View v) {
-                onRecord(mStartRecording);
-                if (mStartRecording) {
-                    setText("Stop recording");
-                } else {
-                    setText("Start recording");
-                }
-                mStartRecording = !mStartRecording;
-            }
-        };
-
-        public RecordButton(Context ctx) {
-            super(ctx);
-            setText("Start recording");
-            setOnClickListener(clicker);
-        }
-    }
-
-    class PlayButton extends Button {
-        boolean mStartPlaying = true;
-
-        OnClickListener clicker = new OnClickListener() {
-            public void onClick(View v) {
-                onPlay(mStartPlaying);
-                if (mStartPlaying) {
-                    setText("Stop playing");
-                } else {
-                    setText("Start playing");
-                }
-                mStartPlaying = !mStartPlaying;
-            }
-        };
-
-        public PlayButton(Context ctx) {
-            super(ctx);
-            setText("Start playing");
-            setOnClickListener(clicker);
-        }
-    }
-
-    public MainActivity() {
-        mFileName = Environment.getExternalStorageDirectory().getAbsolutePath();
-        mFileName += "/audiorecordtest.3gp";
-    }
-
     @Override
-    public void onCreate(Bundle icicle) {
-        super.onCreate(icicle);
-
-        LinearLayout ll = new LinearLayout(this);
-        mRecordButton = new RecordButton(this);
-        ll.addView(mRecordButton,
-                new LinearLayout.LayoutParams(
-                        ViewGroup.LayoutParams.WRAP_CONTENT,
-                        ViewGroup.LayoutParams.WRAP_CONTENT,
-                        0));
-        mPlayButton = new PlayButton(this);
-        ll.addView(mPlayButton,
-                new LinearLayout.LayoutParams(
-                        ViewGroup.LayoutParams.WRAP_CONTENT,
-                        ViewGroup.LayoutParams.WRAP_CONTENT,
-                        0));
-        setContentView(ll);
-    }
-
-    @Override
-    public void onPause() {
-        super.onPause();
-        if (mRecorder != null) {
-            mRecorder.release();
-            mRecorder = null;
-        }
-
-        if (mPlayer != null) {
-            mPlayer.release();
-            mPlayer = null;
-        }
+    public void onCompletion(MediaPlayer mp) {
+        Toast.makeText(getApplicationContext(), "playback is completed", Toast.LENGTH_SHORT).show();
     }
 }

@@ -2,6 +2,8 @@ package net.junsun.l20_audio_player;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
+import android.net.Uri;
+import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -12,7 +14,13 @@ import java.io.IOException;
 public class MainActivity extends AppCompatActivity {
 
     MediaPlayer mediaPlayer;
-    int songs[] = {R.raw.jazz1, R.raw.jazz2, R.raw.jazz3};
+    String songs[] = {
+            "android.resource://net.junsun.l20_audio_player/" + R.raw.jazz1,
+            "android.resource://net.junsun.l20_audio_player/" + R.raw.jazz2,
+            "android.resource://net.junsun.l20_audio_player/" + R.raw.jazz3,
+            "http://junsun.net/local/vincent.mp3",
+            "file:///storage/emulated/0/Download/Diana Krall - Besame Mucho.mp3"
+    };
     int currentSong = 0;
 
     @Override
@@ -35,12 +43,12 @@ public class MainActivity extends AppCompatActivity {
         mediaPlayer.seekTo(0);
     }
 
-    public void next(View view) {
-        if (++currentSong == 3) currentSong=0;
-        mediaPlayer.stop();
-        mediaPlayer.release();
+    public void next(View view) throws IOException {
+        if (++currentSong == songs.length) currentSong=0;
 
-        mediaPlayer = MediaPlayer.create(this, songs[currentSong]);
+        mediaPlayer.reset();
+        mediaPlayer.setDataSource(this, Uri.parse(songs[currentSong]));
+        mediaPlayer.prepare();
         mediaPlayer.start();
     }
 }

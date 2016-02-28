@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="An extremely simple music player playing 3 Jazz songs"
+        android:text="An extremely simple music player playing Jazz songs\n - from raw files\n - from internet\n - from filesystem"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"

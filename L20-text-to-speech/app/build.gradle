@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "net.junsun.l20_text_to_speech"
-        minSdkVersion 15
+        minSdkVersion 21
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

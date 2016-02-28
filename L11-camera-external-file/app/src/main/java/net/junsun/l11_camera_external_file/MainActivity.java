@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     final String albumName = "L11-camera-external-file";
     File imageFile;
+    String fileName;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,62 +43,32 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return;
         }
 
-        imageFile = createImageFile();
-
-        intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri.fromFile(imageFile));
+        fileName = getOutputFileName();
+        intent.putExtra(MediaStore.EXTRA_OUTPUT, Uri.parse(fileName));
 
         startActivityForResult(intent, 1234);
     }
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (requestCode != 1234) return;
+        if (requestCode != 1234 || resultCode != RESULT_OK) return;
 
-        if (resultCode != Activity.RESULT_OK) {
-            imageFile.delete();
-            return;
-        }
-
-        try {
-            InputStream is = new FileInputStream(imageFile);
-
-            ImageView imageView = (ImageView) findViewById(R.id.imageView);
-            imageView.setImageDrawable(Drawable.createFromStream(is, null));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        ImageView imageView = (ImageView) findViewById(R.id.imageView);
+        imageView.setImageURI(Uri.parse(fileName));
     }
 
 
-    private File createImageFile() {
-        File image = null;
-        try {
-            // Create an image file name
-            String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-            String imageFileName = "JPEG_" + timeStamp + "_";
-            File storageDir = getAlbumStorageDir();
-            image = File.createTempFile(
-                    imageFileName,  /* prefix */
-                    ".jpg",         /* suffix */
-                    storageDir      /* directory */
-            );
-        } catch (Exception e) {
-            Log.e("jsun", "failed to create image file.  We will crash soon!");
-            // we should do some meaningful error handling here !!!
-        }
-        return image;
-    }
-
-    public File getAlbumStorageDir() {
-        // Same as Environment.getExternalStorageDirectory() + "/Pictures/" + albumName
-        File file = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES), albumName);
-        if (file.exists()) {
-            Log.d("jsun", "Album directory exists");
-        } else if (file.mkdirs()) {
-            Log.i("jsun", "Album directory is created");
-        } else {
-            Log.e("jsun", "Failed to create album directory.  Check permissions and storage.");
-        }
-        return file;
+    private String getOutputFileName() {
+        String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+        String filename =
+                "file://"
+                + Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES)
+                + "/"
+                + albumName
+                + "/JPEG_"
+                + timeStamp
+                + ".jpg";
+        Log.i("jsun", filename);
+        return filename;
     }
 }
