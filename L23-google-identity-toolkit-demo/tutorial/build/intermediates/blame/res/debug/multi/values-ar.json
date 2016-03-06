@@ -1,0 +1,1722 @@
+[
+    {
+        "outputFile": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 105,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 105,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 127,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 127,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 92,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 92,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 65,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 65,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 68,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 68,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 64,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 64,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 70,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 70,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 77,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 77,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 95,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 95,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 78,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 78,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 78,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 78,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 90,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endColumn": 90,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 104,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 104,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 63,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 63,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 65,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 65,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endColumn": 124,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 124,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 157,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 157,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 148,
+                    "endOffset": 1788
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2543,
+                        "endColumn": 148,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1793,
+                    "endColumn": 110,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2277,
+                        "endColumn": 110,
+                        "endOffset": 2383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1904,
+                    "endColumn": 124,
+                    "endOffset": 2024
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2028,
+                        "endColumn": 124,
+                        "endOffset": 2148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2029,
+                    "endColumn": 153,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 153,
+                        "endOffset": 2023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2183,
+                    "endColumn": 122,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 122,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 172,
+                    "endOffset": 2474
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 176,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2479,
+                    "endColumn": 130,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 130,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endColumn": 179,
+                    "endOffset": 2785
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1252,
+                        "endColumn": 179,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2790,
+                    "endColumn": 187,
+                    "endOffset": 2973
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 187,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2978,
+                    "endColumn": 127,
+                    "endOffset": 3101
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 127,
+                        "endOffset": 1247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3106,
+                    "endColumn": 174,
+                    "endOffset": 3276
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3092,
+                        "endColumn": 174,
+                        "endOffset": 3262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3281,
+                    "endColumn": 121,
+                    "endOffset": 3398
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2970,
+                        "endColumn": 121,
+                        "endOffset": 3087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3403,
+                    "endColumn": 152,
+                    "endOffset": 3551
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 152,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3556,
+                    "endColumn": 157,
+                    "endOffset": 3709
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2812,
+                        "endColumn": 157,
+                        "endOffset": 2965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3714,
+                    "endColumn": 119,
+                    "endOffset": 3829
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 119,
+                        "endOffset": 2807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3834,
+                    "endColumn": 169,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 169,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 163,
+                    "endOffset": 4163
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 163,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4168,
+                    "endColumn": 131,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 131,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endColumn": 144,
+                    "endOffset": 4440
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3267,
+                        "endColumn": 144,
+                        "endOffset": 3407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4445,
+                    "endColumn": 217,
+                    "endOffset": 4658
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3535,
+                        "endColumn": 217,
+                        "endOffset": 3748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4663,
+                    "endColumn": 122,
+                    "endOffset": 4781
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3412,
+                        "endColumn": 122,
+                        "endOffset": 3530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4786,
+                    "endColumn": 105,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3753,
+                        "endColumn": 105,
+                        "endOffset": 3854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endColumn": 154,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2388,
+                        "endColumn": 154,
+                        "endOffset": 2538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 123,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2153,
+                        "endColumn": 123,
+                        "endOffset": 2272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 92,
+                    "endOffset": 5259
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4075,
+                        "endColumn": 92,
+                        "endOffset": 4163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5264,
+                    "endColumn": 96,
+                    "endOffset": 5356
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3859,
+                        "endColumn": 96,
+                        "endOffset": 3951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5361,
+                    "endColumn": 118,
+                    "endOffset": 5475
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3956,
+                        "endColumn": 118,
+                        "endOffset": 4070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5480,
+                    "endColumn": 60,
+                    "endOffset": 5536
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endColumn": 60,
+                        "endOffset": 1739
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 105,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 105,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 127,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 127,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 92,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 92,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 65,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 65,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 68,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 563,
+                        "endColumn": 68,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 64,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 64,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 70,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 70,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 77,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 77,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 95,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 95,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 78,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 78,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endColumn": 78,
+                    "endOffset": 1030
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 78,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1035,
+                    "endColumn": 90,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endColumn": 90,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 104,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 104,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 63,
+                    "endOffset": 1290
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 63,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1295,
+                    "endColumn": 65,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 65,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endColumn": 124,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 124,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 157,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 157,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 148,
+                    "endOffset": 1788
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2543,
+                        "endColumn": 148,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1793,
+                    "endColumn": 110,
+                    "endOffset": 1899
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2277,
+                        "endColumn": 110,
+                        "endOffset": 2383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1904,
+                    "endColumn": 124,
+                    "endOffset": 2024
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2028,
+                        "endColumn": 124,
+                        "endOffset": 2148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2029,
+                    "endColumn": 153,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 153,
+                        "endOffset": 2023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2183,
+                    "endColumn": 122,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 122,
+                        "endOffset": 1869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 172,
+                    "endOffset": 2474
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 176,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2479,
+                    "endColumn": 130,
+                    "endOffset": 2605
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 130,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2610,
+                    "endColumn": 179,
+                    "endOffset": 2785
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1252,
+                        "endColumn": 179,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2790,
+                    "endColumn": 187,
+                    "endOffset": 2973
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 187,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2978,
+                    "endColumn": 127,
+                    "endOffset": 3101
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 127,
+                        "endOffset": 1247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3106,
+                    "endColumn": 174,
+                    "endOffset": 3276
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3092,
+                        "endColumn": 174,
+                        "endOffset": 3262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3281,
+                    "endColumn": 121,
+                    "endOffset": 3398
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2970,
+                        "endColumn": 121,
+                        "endOffset": 3087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3403,
+                    "endColumn": 152,
+                    "endOffset": 3551
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 152,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3556,
+                    "endColumn": 157,
+                    "endOffset": 3709
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2812,
+                        "endColumn": 157,
+                        "endOffset": 2965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3714,
+                    "endColumn": 119,
+                    "endOffset": 3829
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 119,
+                        "endOffset": 2807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3834,
+                    "endColumn": 169,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 169,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 163,
+                    "endOffset": 4163
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 163,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4168,
+                    "endColumn": 131,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 131,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endColumn": 144,
+                    "endOffset": 4440
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3267,
+                        "endColumn": 144,
+                        "endOffset": 3407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4445,
+                    "endColumn": 217,
+                    "endOffset": 4658
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3535,
+                        "endColumn": 217,
+                        "endOffset": 3748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4663,
+                    "endColumn": 122,
+                    "endOffset": 4781
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3412,
+                        "endColumn": 122,
+                        "endOffset": 3530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4786,
+                    "endColumn": 105,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3753,
+                        "endColumn": 105,
+                        "endOffset": 3854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endColumn": 154,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2388,
+                        "endColumn": 154,
+                        "endOffset": 2538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 123,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2153,
+                        "endColumn": 123,
+                        "endOffset": 2272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 92,
+                    "endOffset": 5259
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4075,
+                        "endColumn": 92,
+                        "endOffset": 4163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5264,
+                    "endColumn": 96,
+                    "endOffset": 5356
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3859,
+                        "endColumn": 96,
+                        "endOffset": 3951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5361,
+                    "endColumn": 118,
+                    "endOffset": 5475
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-ar\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3956,
+                        "endColumn": 118,
+                        "endOffset": 4070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5480,
+                    "endColumn": 60,
+                    "endOffset": 5536
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-ar\\values-ar.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endColumn": 60,
+                        "endOffset": 1739
+                    }
+                }
+            }
+        ]
+    }
+]

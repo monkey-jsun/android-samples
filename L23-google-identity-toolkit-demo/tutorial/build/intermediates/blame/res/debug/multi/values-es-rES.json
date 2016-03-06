@@ -1,0 +1,658 @@
+[
+    {
+        "outputFile": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\values-es-rES\\values-es-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 111,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 136,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 136,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 97,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 97,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 67,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 67,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 71,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 71,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 60,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 60,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 73,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 73,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 81,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 81,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 97,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 97,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 71,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 71,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 71,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 71,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 90,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 90,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 104,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 104,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endColumn": 64,
+                    "endOffset": 1257
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 64,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1262,
+                    "endColumn": 68,
+                    "endOffset": 1326
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 68,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1331,
+                    "endColumn": 155,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endColumn": 155,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 61,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 61,
+                        "endOffset": 1799
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\values-es-rES\\values-es-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 111,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 111,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 136,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 136,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 97,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 97,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 67,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 67,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 71,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 71,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 60,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 60,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 73,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 73,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 81,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 81,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 97,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endColumn": 97,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 71,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 71,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 71,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 71,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 90,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 90,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 104,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 104,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endColumn": 64,
+                    "endOffset": 1257
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 64,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1262,
+                    "endColumn": 68,
+                    "endOffset": 1326
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 68,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1331,
+                    "endColumn": 155,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endColumn": 155,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 61,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\values-es-rES\\values-es-rES.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 61,
+                        "endOffset": 1799
+                    }
+                }
+            }
+        ]
+    }
+]

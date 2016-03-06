@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\account_chip_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\res\\drawable\\account_chip_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_normal.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\res\\drawable\\button_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg_invalid.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg_invalid.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_aol_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_aol_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_linkedin_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_linkedin_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_disabled.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\res\\drawable\\button_bg_disabled.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_button_bg_normal.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_button_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg_unfocused.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg_unfocused.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_account_chip_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_account_chip_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_account_chip_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_account_chip_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_pressed.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\res\\drawable\\button_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_google_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_google_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_pressed.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\res\\drawable\\button_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_google_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_google_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_yahoo_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_yahoo_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_paypal_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_paypal_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg_focused.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\account_chip_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\res\\drawable\\account_chip_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg_focused.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_button_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_button_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_yahoo_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_yahoo_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_button_bg_disabled.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_button_bg_disabled.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg_unfocused.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg_unfocused.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_facebook_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_facebook_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_disabled.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\res\\drawable\\button_bg_disabled.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_aol_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_aol_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_button_bg_disabled.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_button_bg_disabled.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_paypal_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_paypal_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg_normal.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\res\\drawable\\button_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_amazon_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_amazon_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_text_input_bg_invalid.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_text_input_bg_invalid.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_microsoft_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_microsoft_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_button_bg_normal.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_button_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_microsoft_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_microsoft_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_facebook_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_facebook_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_linkedin_bg.xml",
+        "source": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_linkedin_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_button_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_button_bg.xml"
+    },
+    {
+        "merged": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\drawable\\identitytoolkit_idp_amazon_bg.xml",
+        "source": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\identitytoolkit-api11\\res\\drawable\\identitytoolkit_idp_amazon_bg.xml"
+    }
+]

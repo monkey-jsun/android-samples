@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L23-google-identity-toolkit-demo.iml" filepath="$PROJECT_DIR$/L23-google-identity-toolkit-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial/tutorial.iml" filepath="$PROJECT_DIR$/tutorial/tutorial.iml" />
+    </modules>
+  </component>
+</project>

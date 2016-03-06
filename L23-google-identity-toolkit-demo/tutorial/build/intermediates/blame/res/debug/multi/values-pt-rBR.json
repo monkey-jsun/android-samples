@@ -1,0 +1,1076 @@
+[
+    {
+        "outputFile": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR\\values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 164,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 164,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 157,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2677,
+                        "endColumn": 157,
+                        "endOffset": 2830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 115,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2385,
+                        "endColumn": 115,
+                        "endOffset": 2496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 129,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2124,
+                        "endColumn": 129,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 161,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1962,
+                        "endColumn": 161,
+                        "endOffset": 2119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 126,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1835,
+                        "endColumn": 126,
+                        "endOffset": 1957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 170,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 174,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 132,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endColumn": 132,
+                        "endOffset": 1830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 201,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endColumn": 201,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endColumn": 200,
+                    "endOffset": 1665
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 200,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1670,
+                    "endColumn": 128,
+                    "endOffset": 1794
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 128,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1799,
+                    "endColumn": 175,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3255,
+                        "endColumn": 175,
+                        "endOffset": 3426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 122,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3132,
+                        "endColumn": 122,
+                        "endOffset": 3250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 163,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 163,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 177,
+                    "endOffset": 2435
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2954,
+                        "endColumn": 177,
+                        "endOffset": 3127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2440,
+                    "endColumn": 118,
+                    "endOffset": 2554
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 118,
+                        "endOffset": 2949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2559,
+                    "endColumn": 182,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 182,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endColumn": 177,
+                    "endOffset": 2915
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 177,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2920,
+                    "endColumn": 134,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 134,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 149,
+                    "endOffset": 3200
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3431,
+                        "endColumn": 149,
+                        "endOffset": 3576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3205,
+                    "endColumn": 262,
+                    "endOffset": 3463
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3699,
+                        "endColumn": 262,
+                        "endOffset": 3957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3468,
+                    "endColumn": 117,
+                    "endOffset": 3581
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3581,
+                        "endColumn": 117,
+                        "endOffset": 3694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3586,
+                    "endColumn": 109,
+                    "endOffset": 3691
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3962,
+                        "endColumn": 109,
+                        "endOffset": 4067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3696,
+                    "endColumn": 175,
+                    "endOffset": 3867
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2501,
+                        "endColumn": 175,
+                        "endOffset": 2672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3872,
+                    "endColumn": 130,
+                    "endOffset": 3998
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endColumn": 130,
+                        "endOffset": 2380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4003,
+                    "endColumn": 97,
+                    "endOffset": 4096
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4276,
+                        "endColumn": 97,
+                        "endOffset": 4369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4101,
+                    "endColumn": 89,
+                    "endOffset": 4186
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4072,
+                        "endColumn": 89,
+                        "endOffset": 4157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4191,
+                    "endColumn": 113,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\android-course\\L23-google-identity-toolkit-demo\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4162,
+                        "endColumn": 113,
+                        "endOffset": 4271
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR\\values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 164,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 164,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 157,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2677,
+                        "endColumn": 157,
+                        "endOffset": 2830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 115,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2385,
+                        "endColumn": 115,
+                        "endOffset": 2496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 129,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2124,
+                        "endColumn": 129,
+                        "endOffset": 2249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 161,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1962,
+                        "endColumn": 161,
+                        "endOffset": 2119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 126,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1835,
+                        "endColumn": 126,
+                        "endOffset": 1957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 170,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 174,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 132,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endColumn": 132,
+                        "endOffset": 1830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 201,
+                    "endOffset": 1464
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endColumn": 201,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1469,
+                    "endColumn": 200,
+                    "endOffset": 1665
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 200,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1670,
+                    "endColumn": 128,
+                    "endOffset": 1794
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 128,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1799,
+                    "endColumn": 175,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3255,
+                        "endColumn": 175,
+                        "endOffset": 3426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 122,
+                    "endOffset": 2093
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3132,
+                        "endColumn": 122,
+                        "endOffset": 3250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2098,
+                    "endColumn": 163,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 163,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 177,
+                    "endOffset": 2435
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2954,
+                        "endColumn": 177,
+                        "endOffset": 3127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2440,
+                    "endColumn": 118,
+                    "endOffset": 2554
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 118,
+                        "endOffset": 2949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2559,
+                    "endColumn": 182,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 182,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endColumn": 177,
+                    "endOffset": 2915
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 177,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2920,
+                    "endColumn": 134,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 134,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 149,
+                    "endOffset": 3200
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3431,
+                        "endColumn": 149,
+                        "endOffset": 3576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3205,
+                    "endColumn": 262,
+                    "endOffset": 3463
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3699,
+                        "endColumn": 262,
+                        "endOffset": 3957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3468,
+                    "endColumn": 117,
+                    "endOffset": 3581
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3581,
+                        "endColumn": 117,
+                        "endOffset": 3694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3586,
+                    "endColumn": 109,
+                    "endOffset": 3691
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3962,
+                        "endColumn": 109,
+                        "endOffset": 4067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3696,
+                    "endColumn": 175,
+                    "endOffset": 3867
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2501,
+                        "endColumn": 175,
+                        "endOffset": 2672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3872,
+                    "endColumn": 130,
+                    "endOffset": 3998
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endColumn": 130,
+                        "endOffset": 2380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4003,
+                    "endColumn": 97,
+                    "endOffset": 4096
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4276,
+                        "endColumn": 97,
+                        "endOffset": 4369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4101,
+                    "endColumn": 89,
+                    "endOffset": 4186
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4072,
+                        "endColumn": 89,
+                        "endOffset": 4157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4191,
+                    "endColumn": 113,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "C:\\AndroidProjects\\playground\\FrameLayout\\tutorial\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.1.11\\res\\values-pt-rBR\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4162,
+                        "endColumn": 113,
+                        "endOffset": 4271
+                    }
+                }
+            }
+        ]
+    }
+]
