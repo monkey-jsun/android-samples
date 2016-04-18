@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="75025916534131" >
+
+    <task
+        name="javac"
+        duration="370" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="81" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="C:\AndroidProjects\android-course\L08-ListActivity\simpleListDemo\build\outputs\apk\simpleListDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="75025916534131" >
+        <artifact
+            location="C:\AndroidProjects\android-course\L08-ListActivity\simpleListDemo\build\outputs\apk\simpleListDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

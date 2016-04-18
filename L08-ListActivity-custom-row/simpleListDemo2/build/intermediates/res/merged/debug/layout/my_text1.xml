@@ -8,5 +8,4 @@
     android:paddingLeft="5dp"
     android:textColor="#ffff0000"
     android:background="#22ff0000"
-    android:drawableLeft="@drawable/ic_launcher"
     android:textSize="35sp" />

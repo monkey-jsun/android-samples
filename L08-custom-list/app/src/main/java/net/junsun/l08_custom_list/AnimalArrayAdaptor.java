@@ -28,13 +28,17 @@ public class AnimalArrayAdaptor extends ArrayAdapter<Animal> {
     public View getView(int position, View convertView, ViewGroup parent) {
         LayoutInflater inflater = (LayoutInflater) getContext().getSystemService
                 (Context.LAYOUT_INFLATER_SERVICE);
-        View row = inflater.inflate(R.layout.custom_row, null);
+        View row = convertView;
+        if (convertView == null) {
+            // This is an expensive operation! Avoid and reuse as much as possible.
+            row = inflater.inflate(R.layout.custom_row, parent, false);
+        }
 
         TextView textView = (TextView) row.findViewById(R.id.label);
         textView.setText(animals.get(position).getName());
 
+        ImageView imageView = (ImageView) row.findViewById(R.id.icon);
         try {
-            ImageView imageView = (ImageView) row.findViewById(R.id.icon);
             String filename = animals.get(position).getFilename();
             InputStream inputStream = getContext().getAssets().open(filename);
             Drawable drawable = Drawable.createFromStream(inputStream, null);
