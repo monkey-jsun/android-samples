@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="1dp"
-        android:gravity="center_horizontal"
+        android:gravity="center"
         android:horizontalSpacing="0dp"
         android:numColumns="auto_fit"
         android:verticalSpacing="0dp"

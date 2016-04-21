@@ -77,6 +77,7 @@ public class MainActivity extends Activity implements OnItemClickListener {
 			public void onClick(View v) {
 				// redraw the main screen showing the GridView
 				onCreate(myOriginalMemoryBundle);
+				//recreate();
 			}
 		});
 

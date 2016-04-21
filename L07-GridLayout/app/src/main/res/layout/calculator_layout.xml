@@ -10,7 +10,6 @@
         android:id="@+id/one"
         android:text="1" />
     　　
-
     <Button
         android:id="@+id/two"
         android:text="2" />

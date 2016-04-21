@@ -40,7 +40,7 @@ public class AnimalArrayAdaptor extends ArrayAdapter<Animal> {
 
             LayoutInflater inflater = (LayoutInflater) getContext().getSystemService
                     (Context.LAYOUT_INFLATER_SERVICE);
-            row = inflater.inflate(R.layout.custom_row, null);
+            row = inflater.inflate(R.layout.custom_row, parent, false);
 
             holder = new ScrapViewHolder();
             holder.label = (TextView) row.findViewById(R.id.label);

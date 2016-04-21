@@ -218,7 +218,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
     // --------------------------------------------------------------
     private void ActionCall() {
 
-        String myPhoneNumberUri = "tel:555-1234";
+        String myPhoneNumberUri = "tel:1-800-3569377";
         Intent myActivity2 = new Intent(Intent.ACTION_CALL,
                 Uri.parse(myPhoneNumberUri));
         startActivity(myActivity2);
@@ -228,7 +228,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
     // --------------------------------------------------------------
     private void ActionDial() {
 
-        String myPhoneNumberUri = "tel:555-1234";
+        String myPhoneNumberUri = "tel:1-800-555-1212";
         Intent myActivity2 = new Intent(Intent.ACTION_DIAL,
                 Uri.parse(myPhoneNumberUri));
         startActivity(myActivity2);

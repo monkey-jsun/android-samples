@@ -26,4 +26,5 @@
         android:layout_toRightOf="@+id/textView"
         android:layout_marginLeft="41dp"
         android:layout_marginStart="41dp" />
+
 </RelativeLayout>

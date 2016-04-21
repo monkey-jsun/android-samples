@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         TextView textView = (TextView) findViewById(R.id.textView2);
-        textView.setText("Name is " + data.getDataString());
+        textView.setText("Your name is " + data.getDataString());
     }
 
     private void toast(String msg) {
