@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
         if (requestCode != 111) return;
-        if (grantResults.length >= 1 && grantResults[0] != PackageManager.PERMISSION_GRANTED) {
+        if (grantResults.length >= 1 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
             Toast.makeText(getApplicationContext(), "Great! We have the permission!", Toast.LENGTH_SHORT).show();
         } else {
             Toast.makeText(getApplicationContext(), "Cannot write to external storage! App will not work properly!", Toast.LENGTH_SHORT).show();

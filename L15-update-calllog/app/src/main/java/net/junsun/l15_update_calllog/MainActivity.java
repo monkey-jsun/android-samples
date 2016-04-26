@@ -67,6 +67,8 @@ public class MainActivity extends AppCompatActivity {
                 CallLog.Calls._ID + "=" + cursor.getString(cursor.getColumnIndex(CallLog.Calls._ID)),
                 null);
         Log.i("jsun", "Changed phone number to 1-900-PSYCHIC");
+
+        cursor.close();
     }
 
     private void displayLastOutgoingCall() {
@@ -92,6 +94,8 @@ public class MainActivity extends AppCompatActivity {
         String name = cursor.getString(cursor.getColumnIndex(CallLog.Calls.CACHED_NAME));
         String number = cursor.getString(cursor.getColumnIndex(CallLog.Calls.NUMBER));
         textView.setText("Last outgoing call:\n\tName : " + name + "\n\tNumber: " + number);
+
+        cursor.close();
     }
 
 }
