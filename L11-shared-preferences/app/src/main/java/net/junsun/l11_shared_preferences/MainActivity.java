@@ -40,8 +40,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // mySharedPreferences = getSharedPreferences(myPreference, Activity.MODE_PRIVATE);
-        mySharedPreferences = getPreferences(Activity.MODE_PRIVATE);
+        mySharedPreferences = getSharedPreferences(myPreference, Activity.MODE_PRIVATE);
+        // mySharedPreferences = getPreferences(Activity.MODE_PRIVATE);
 
     }
 

@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.i("jsun", "internal file directory is " + getFilesDir());
+        Toast.makeText(getApplicationContext(), "internal file directory is " + getFilesDir(), Toast.LENGTH_SHORT).show();
     }
 
     private void readEditMyFile() {

@@ -73,8 +73,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         String filename =
                 "file://"
                         + Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES)
-                        + "/"
-                        + albumName
                         + "/JPEG_"
                         + timeStamp
                         + ".jpg";
