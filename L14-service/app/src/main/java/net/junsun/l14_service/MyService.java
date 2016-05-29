@@ -29,13 +29,13 @@ public class MyService extends Service {
     public int onStartCommand(Intent intent, int flags, int startId) {
         Log.i("jsun", "onStartCommand() is called: flags=" + flags + ", startId=" + startId);
 
-        // long_running();
+        long_running();
 
         return START_STICKY;
     }
 
     private void long_running() {
-        for(int i=0; i< 100; i++) {
+        for(int i=0; i< 10; i++) {
             Log.i("jsun", "do something long running : " + i);
             try {
                 Thread.sleep(1000);

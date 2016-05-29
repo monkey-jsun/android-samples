@@ -49,7 +49,7 @@ public class MainActivity extends ListActivity {
         });
 
         // Just to show another way to work with cursor
-        ListSelectedContacts();
+        //ListSelectedContacts();
     }
 
     private void ListSelectedContacts() {
